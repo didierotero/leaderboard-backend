@@ -1,0 +1,39 @@
+{
+  "name": "leaderboard-backend",
+  "version": "0.1.0",
+  "description": "Backend for Developers' Guild Leaderboard Application",
+  "main": "src/js/index.js",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/developersguild/leaderboard-backend.git"
+  },
+  "contributors": [
+    {
+      "name": "Derrick Cohodas",
+      "email": "derrick@cohodas.me",
+      "url": "http://derrick.cohodas.me"
+    },
+    {
+      "name": "Your Name Here",
+      "email": "name@email.com",
+      "url": "htpp://homepage.com"
+    }
+  ],
+  "license": [
+    {
+      "type": "MIT",
+      "url": "http://opensource.org/licenses/MIT"
+    }
+  ],
+  "bugs": {
+    "url": "https://github.com/developersguild/leaderboard-backend/issues"
+  },
+  "homepage": "https://github.com/developersguild/leaderboard-backend",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-mocha-cli": "^1.10.0"
+  }
+}
