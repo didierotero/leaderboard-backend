@@ -1,6 +1,6 @@
 {
   "name": "leaderboard-backend",
-  "version": "0.1.0",
+  "version": "0.0.1",
   "description": "Backend for Developers' Guild Leaderboard Application",
   "main": "src/js/index.js",
   "scripts": {
@@ -14,12 +14,12 @@
     {
       "name": "Derrick Cohodas",
       "email": "derrick@cohodas.me",
-      "url": "http://derrick.cohodas.me"
+      "url": "http://derrick.cohodas.me",
     },
     {
-      "name": "Your Name Here",
-      "email": "name@email.com",
-      "url": "htpp://homepage.com"
+      "name": "Didier Otero",
+      "email": "didier@otero.in",
+      "url": "http://didier.otero.in",
     }
   ],
   "license": [
